@@ -24,7 +24,7 @@ const students = [
 
 
 //MEDIUM
-var x = prompt("What is your number?");
+var x = prompt("What is your number(for month)?");
 
 const months = ["None", "January", "Feburary", "March", "Abril", "May", "June", "July", "August", "September", "October", "November", "December"]
 
